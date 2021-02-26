@@ -11,7 +11,7 @@ var block_image_object="";
 
 function player_update()
 {
-    fabric.Image.fromURL("2737274333_medium.jpg", function(Img) {
+    fabric.Image.fromURL("player.png", function(Img) {
         player_object = Img;
 
 
